@@ -33,6 +33,7 @@ text-align: center;
 .clock span{
     height: 100px;
     width: 90px;
+    border-radius:10%;
     background-color: rgba(56, 249, 249, 0.47);
 opacity: .8;
 display: flex;
